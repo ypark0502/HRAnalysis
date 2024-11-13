@@ -1,5 +1,5 @@
 # Using Data Analytics to Inform Employee Health and Wellness Incentive Program
-**Business Task**: This project involves using provided data to calculate a proposed wage increase for non-smoking employees given an insurance budget of $983,221. Additionally, creating an interactive dashboard for HR to understand trends in Absenteeism at work by exploring possible factors including various health indicators like smoking, BMI, and cited reasons for absenteeism.
+**Business Task**: This project involved using provided data to calculate a proposed wage increase for non-smoking employees given an insurance budget of $983,221. Additionally, I created an interactive dashboard for HR to understand trends in Absenteeism at work by exploring possible factors including various health indicators like smoking, BMI, and cited reasons for absenteeism.
 
 **Technologies**: SQL Server, Power BI
 ## Process
